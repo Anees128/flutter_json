@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Anees Khan",
+        "age" : "24",
+        "height": "162",
+        "gender" : "male",
+        "hair_color": "black"
+
+    },
+    
+    {
+        "name": "Sami Khan",
+        "age" : "21",
+        "height": "152",
+        "gender" : "male",
+        "hair_color": "black"
+
+    },
+
+    {
+        "name": "Aiman Khan",
+        "age" : "14",
+        "height": "120",
+        "gender" : "Female",
+        "hair_color": "black"
+
+    },
+    {
+        "name": "Sana Khan",
+        "age" : "14",
+        "gender" : "Female",
+        "hair_color": "black"
+
+    }
+
+]
